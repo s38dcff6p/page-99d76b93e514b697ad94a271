@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1dea73625422eefc72ef952d",
+  "owner": "s38dcff6p",
+  "repo": "page-99d76b93e514b697ad94a271",
+  "title": "clash verge官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "99d76b93e514b697ad94a271",
+      "a": "Xlinkworld",
+      "b": "clash verge官网",
+      "entity": "Xlinkworld",
+      "brand": "clash verge官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "53ccab712c0dbc6e462b30480a52272824d696d336c715211f351b34debbd6f2",
+      "content": {
+        "primary_entity": "Xlinkworld",
+        "keyword1": "Xlinkworld",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统下载对应客户端：Windows 用 Clash Verge，macOS 用 ClashX，移动端用 Shadowrocket 或 Clash Meta。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "访问 Xlinkworld 客户端下载页，选择匹配设备系统的客户端并导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选好客户端，连上 Xlinkworld",
+          "AI_DESCRIPTION": "，Xlinkworld 提供基础版、旗舰版与团队版三档订阅，月付起步 ¥15，年付低至 ¥150。旗舰版含 300GB 流量、5 台设备与 IPLC 专线，适合游戏加速与流媒体；团队版支持 20 台设备与定制路由。客户端覆盖 Clash Verge、ClashX、Shadowrocket 等，按设备系统选择即可。",
+          "AI_FEATURES_INTRO": "Xlinkworld 的订阅按设备数量与月流量分档，先看清自己需要几台设备同时在线，再决定月付或年付。",
+          "AI_FEATURES_TITLE": "订阅前先看三点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按实际在线设备数量选择，避免多余开支。",
+          "AI_FEATURE_TEXT_2": "各档提供 100GB 至 1000GB 月流量，轻度浏览选基础版，高频游戏与 4K 流媒体选旗舰版以上。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付约省两个月费用；长期使用可选年付，短期体验先试月付。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "先从设备数量与流量需求出发选择套餐，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "Xlinkworld 面向需要海外加速的用户，提供基础版、旗舰版与团队版三档订阅，价格从 ¥15/月起。搭配 Clash Verge 等客户端，按设备系统导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "Xlinkworld 三档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付低至 ¥15，年付更省",
+          "AI_HIGHLIGHT_3": "搭配 Clash Verge 等常用客户端",
+          "AI_PLANS_INTRO": "基础版适合 1 至 3 台设备轻度使用；旗舰版含 300GB 流量与 IPLC 专线，适合游戏与流媒体；团队版面向多设备与定制路由需求。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线的设备数量、每月流量和预算区间，从基础版、旗舰版、团队版中选出匹配的一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，Windows 对应 Clash Verge，macOS 对应 ClashX，移动端对应 Shadowrocket 或 Clash Meta。",
+          "AI_STEP_TEXT_3": "在客户端中按文档说明导入订阅地址，完成节点选择后即可开始使用。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "Xlinkworld 海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Xlinkworld 的套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "基础版适合轻量使用，每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线；团队版每月 1000GB、20 台设备，适合多终端协作。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版允许 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。超出数量可能影响连接，建议按实际设备数选择版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付灵活，适合短期尝试；年付方案折算后每月更低，基础版年付 150 元、旗舰版 350 元、团队版 850 元，长期使用更为划算。",
+          "AI_FAQ_QUESTION_4": "客户端如何导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再按客户端文档把订阅地址填入应用，选择节点后连接。不同桌面端与移动端操作略有不同，请查阅各自说明。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量、20 台设备以及 VIP 高带宽节点与定制路由，适合小型团队或多设备家庭集中管理使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "74aa7af83d3d917ae56bcddc05cb0f0cdd272cc692d0cfc923aecbbe97291ad9",
+    "sitemap.xml": "209b1f639d9325d1b6e9c13ea3110db3dff2e52481b5cb08474fbf0a7101e1db",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "587475d689a3c4a9042726e6d3e1d1fd51cf941d37230df365aa8fb5df7c1b27"
+}
